@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'cfsfgdgdgs',
               style: TextStyle(
                 fontSize: 20.0,
-                color: Colors.cyan,
+                color: Colors.deepOrange,
               ),
             ),
             Text(
